@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93d79c86e9294bbe0a9520d3165e07fdffcdbf18")]
 [assembly: System.Reflection.AssemblyProductAttribute("dock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
